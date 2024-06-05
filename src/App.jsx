@@ -1,6 +1,6 @@
 const App = () => {
   return (
-    <div className=''>nexus chat</div>
+    <div className=''>nex chat</div>
   )
 }
 
